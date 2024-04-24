@@ -1,6 +1,6 @@
 # LYT-Net-ONNX-Sample
 Low-Light Image Enhancementモデルである[albrateanu/LYT-Net](https://github.com/albrateanu/LYT-Net)のONNX推論サンプルです。<br>
-ONNXに変換したモデルも同梱しています。変換自体を試したい方は[LYT-Net-Convert2ONNX.ipynb](LYT-Net-Convert2ONNX.ipynb)を使用ください。
+ONNXに変換したモデルも同梱しています。変換自体を試したい方はColaboratoryで[LYT-Net-Convert2ONNX.ipynb](LYT-Net-Convert2ONNX.ipynb)を使用ください。
 
 https://github.com/Kazuhito00/LYT-Net-ONNX-Sample/assets/37477845/8ad2245d-51e0-44bc-bd9e-a08551feeac2
 
